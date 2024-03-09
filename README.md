@@ -1,10 +1,10 @@
 <div align="center">
-    <!-- Rank 00 -->
+    <!-- # Rank 00 -->
           <hr style="width: 50%; margin-top: 10px; margin-bottom: 10px;">
     <div style="padding-bottom: 20px;">
         <h2>RANK 00</h2>
         <a href="https://github.com/Pedronplay/42_rank_01/tree/40b09bd4e421acb89f988f401f2b132d2dfbc318/libft">
-            <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png" width="90"/>
+            <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png" width="125"/>
         </a>
     </div>
 
@@ -24,4 +24,12 @@
         </div>
                 <hr style="width: 50%; margin-top: 10px; margin-bottom: 10px;">
     </div>
+    <div style="padding-bottom: 20px;">
+        <h2>RANK 02</h2>
+ <a href="https://github.com/Pedronplay/RANK-02/tree/232934ed711825650fa1257573e45d84533f97bc/minitalk">
+            <img src="https://github.com/ayogun/42-project-badges/blob/3817eac1ff2d69bb5bdb29e646ea5b5bd521585c/badges/minitalkm.png" width="125"/>
+        </a>
+        <a href="https://github.com/Pedronplay/RANK-02/tree/232934ed711825650fa1257573e45d84533f97bc/push_swap">
+            <img src="https://github.com/ayogun/42-project-badges/blob/3817eac1ff2d69bb5bdb29e646ea5b5bd521585c/badges/push_swapm.png" width="125" style="margin-right: 10px;"/>
 </div>
+
